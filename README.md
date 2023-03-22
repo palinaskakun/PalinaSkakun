@@ -3,7 +3,7 @@ Hey there! My name is Palina and I am a sophomore at Michigan State University s
 <p align="center">
 <a href="https://www.linkedin.com/in/palinaskakun/">
 
-<image src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height ="60" class="center" alt="LinkedIn">
+<image src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height ="60" class="center" >
 
 </a>
   </p>
