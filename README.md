@@ -1,8 +1,11 @@
 # Palina Skakun
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/palinaskakun/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)"/></a>
-</p>
+<a href=”https://www.linkedin.com/in/palinaskakun/”>
+
+<image src=”https://cdn-icons-png.flaticon.com/512/174/174857.png” alt=”LinkedIn”>
+
+</a>
 
 
 
