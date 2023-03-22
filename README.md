@@ -3,7 +3,8 @@
 
 <a href=”https://www.linkedin.com/in/palinaskakun/”>
 
-<image src=”https://cdn-icons-png.flaticon.com/512/174/174857.png” alt=”LinkedIn”>
+<image src=”![image](https://user-images.githubusercontent.com/102822796/226855020-7425007d-0a85-4eb7-871b-fb2c44dacfc3.png)
+ ” alt=”LinkedIn”>
 
 </a>
 
