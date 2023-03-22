@@ -1,7 +1,7 @@
 # Palina Skakun
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/palinaskakun/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="[https://i.imgur.com/qiXu7b2.png]([https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo](https://cdn-icons-png.flaticon.com/512/174/174857.png))"/></a>
+  <a href="https://www.linkedin.com/in/palinaskakun/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="[[https://i.imgur.com/qiXu7b2.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)]([https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo](https://cdn-icons-png.flaticon.com/512/174/174857.png))"/></a>
 </p>
 
 
