@@ -3,7 +3,10 @@
 
 <a href=”https://www.linkedin.com/in/palinaskakun/”>
 
-<image src=”![image](https://user-images.githubusercontent.com/102822796/226855020-7425007d-0a85-4eb7-871b-fb2c44dacfc3.png)” 
+<image src=”
+       ![image](https://user-images.githubusercontent.com/102822796/226855260-84b575ba-90a4-4931-8507-9f42e793f198.png)
+
+       ” 
        alt=”LinkedIn”>
 
 </a>
