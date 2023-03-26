@@ -6,4 +6,5 @@ Hey there! My name is Palina and I am a sophomore at Michigan State University s
 <image src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height ="60" class="center" >
 
 </a>
+  <a href=mailto:“palinaskakun@gmail.com,skakunpa@msu.edu”>Reach out to me</a>
   </p>
