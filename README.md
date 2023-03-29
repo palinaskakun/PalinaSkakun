@@ -1,5 +1,5 @@
 # Palina Skakun
-Hey there! My name is Palina and I am a sophomore at Michigan State University studying Computer Science and Engineering. Looking to collaborate on any projects related to game development or cybersecurity! Connect with me:
+Hey there! My name is Palina and I am a sophomore at Michigan State University studying Computer Science and Engineering. Looking to collaborate on any projects related to game development or cybersecurity. Connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/palinaskakun/">
 
