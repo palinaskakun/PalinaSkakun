@@ -1,4 +1,4 @@
-# Palina Skakun
+# palina skakun
 hi there! i'm Palina and i'm a senior at michigan state university studying cs. looking to collaborate on any projects related to web and app dev. connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/palinaskakun/">
