@@ -1,5 +1,5 @@
 # Palina Skakun
-Hey there! My name is Palina and I am a junior at Michigan State University studying Computer Science and Engineering. Looking to collaborate on any projects related to web and software development or cybersecurity. Connect with me:
+hi there! i'm Palina and i'm a senior at michigan state university studying cs. looking to collaborate on any projects related to web and app dev. connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/palinaskakun/">
 
