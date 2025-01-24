@@ -17,9 +17,6 @@ hi there! i'm Palina and i'm a senior at michigan state university studying cs. 
     
   </p>
 
-
-  📈 my github stats
-
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=palinaskakun&show_icons=true&theme=gotham" alt="palinaskakun" /> -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
