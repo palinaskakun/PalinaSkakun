@@ -19,9 +19,7 @@ hi there! i'm Palina and i'm a senior at michigan state university studying cs. 
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=palinaskakun&show_icons=true&theme=gotham" alt="palinaskakun" /> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,16 +60,20 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Detroit
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    11 mins             ███████████████████████░░   93.95 % 
+C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zoom                     11 mins             ███████████████████████░░   93.09 % 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aquarium-app             11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -91,5 +93,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/palinaskakun/palinaskakun/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 21:43:55 UTC
+ Last Updated on 25/01/2025 18:39:17 UTC
 <!--END_SECTION:waka-->
