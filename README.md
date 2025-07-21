@@ -3,7 +3,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/palinaskakun)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/palinaskakun)](https://badges.pufler.dev)
 
-hi there! i'm Palina and i'm a senior at michigan state university studying cs. looking to collaborate on any projects related to web and app dev. connect with me:
+hi there! i'm Palina and i'm a recent grad from michigan state university in computer science. looking to collaborate on any projects related to web and app dev. connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/palinaskakun/">
   
